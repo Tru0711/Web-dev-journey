@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: aquamarine;
+}
+body{
+    text-align: center;
+}

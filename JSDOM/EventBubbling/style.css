@@ -1,0 +1,14 @@
+ul{
+    background-color: red;
+     width: 300px;
+}
+
+li{
+    background-color: aqua;
+    width: 100%;
+}
+div{
+    background-color: rgb(239, 90, 231);
+    height: 300px;
+    width: 340px;
+}
